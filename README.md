@@ -46,7 +46,7 @@ The emphasis is on **data preparation**: finding what is wrong with the data, de
 
 Before loading anything, I inspected each file's structure and mapped how the tables relate.
 
-![Olist ERD](docs/erd.png)
+![Olist ERD](docs/erd.jpg)
 
 **Important notes on this diagram:**
 
