@@ -111,7 +111,7 @@ Python (pandas)	Pre-load file inspection
 PlantUML	ERD and diagrams
 Git & GitHub	Version control
 📂 Repository Structure
-olist-data-warehouse/
+olist-data-warehouse-SQL-project/
 │
 ├── datasets/              # Raw CSVs (git-ignored, not included)
 │
@@ -149,6 +149,3 @@ and connect with mysql --local-infile=1 -u <user> -p. 4. Run the scripts in orde
 🙏 Acknowledgements
 Dataset: Olist, via Kaggle.
 Project structure and Medallion Architecture approach inspired by the SQL Data Warehouse Project by Data With Baraa (MIT License). This project re-implements the concept in MySQL with a different dataset and its own cleaning and modeling decisions.
-👤 About
-
-Add a short intro, your LinkedIn, and contact links here.
